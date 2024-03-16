@@ -1,0 +1,2 @@
+2023-12-18 12:22:00,153:    TookKit v1.87 for ['RK3588', 'RK3566', 'RK3568', 'RV1106', 'RV1126', 'RV1103']
+2023-12-18 12:22:00,633:    D:\×ÀÃæ\SocToolKit_v1.87_20230512_01_win\bin\windows\upgrade_tool.exe ld
